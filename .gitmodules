@@ -1,0 +1,3 @@
+[submodule "FRIDA"]
+	path = FRIDA
+	url = https://github.com/matteobonotto/FRIDA.git
