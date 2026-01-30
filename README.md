@@ -1,2 +1,2 @@
 # ML-GS+VS
-Transformer based surrogate model for Vertical Stability Observer 
+Thss repo uses Physics Attention Transformers and Fourier Neural Operator networks to build ML surrogate models for Vertical Stability Observer and Grad-shafranov equation (fixed bounndary)
