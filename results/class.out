@@ -1,0 +1,110 @@
+Using device: cuda
+Loading data...
+Loading existing split...
+Data scaled: mean=0.9949, std=7.0062
+Epoch 1: Loss 0.8588, Acc 97.98%
+Epoch 2: Loss 0.0761, Acc 98.35%
+Epoch 3: Loss 0.0543, Acc 98.95%
+Epoch 4: Loss 0.0498, Acc 99.02%
+Epoch 5: Loss 0.0440, Acc 98.91%
+Epoch 6: Loss 0.0393, Acc 97.42%
+Epoch 7: Loss 0.0350, Acc 98.38%
+Epoch 8: Loss 0.0311, Acc 99.10%
+Epoch 9: Loss 0.0286, Acc 99.23%
+Epoch 10: Loss 0.0265, Acc 99.26%
+Epoch 11: Loss 0.0245, Acc 98.98%
+Epoch 12: Loss 0.0209, Acc 99.26%
+Epoch 13: Loss 0.0191, Acc 99.36%
+Epoch 14: Loss 0.0178, Acc 99.43%
+Epoch 15: Loss 0.0157, Acc 99.37%
+Epoch 16: Loss 0.0138, Acc 99.44%
+Epoch 17: Loss 0.0119, Acc 99.48%
+Epoch 18: Loss 0.0110, Acc 99.48%
+Epoch 19: Loss 0.0100, Acc 99.52%
+Epoch 20: Loss 0.0096, Acc 99.55%
+Epoch 21: Loss 0.0094, Acc 99.55%
+Epoch 22: Loss 0.0095, Acc 99.54%
+Epoch 23: Loss 0.0099, Acc 99.54%
+Epoch 24: Loss 0.0106, Acc 99.56%
+Epoch 25: Loss 0.0115, Acc 99.52%
+Epoch 26: Loss 0.0126, Acc 99.48%
+Epoch 27: Loss 0.0134, Acc 99.49%
+Epoch 28: Loss 0.0154, Acc 99.42%
+Epoch 29: Loss 0.0166, Acc 99.46%
+Epoch 30: Loss 0.0182, Acc 99.35%
+Epoch 31: Loss 0.0195, Acc 99.38%
+Epoch 32: Loss 0.0210, Acc 99.33%
+Epoch 33: Loss 0.0223, Acc 99.43%
+Epoch 34: Loss 0.0220, Acc 99.19%
+Epoch 35: Loss 0.0235, Acc 99.06%
+Epoch 36: Loss 0.0238, Acc 99.35%
+Epoch 37: Loss 0.0243, Acc 99.06%
+Epoch 38: Loss 0.0237, Acc 99.37%
+Epoch 39: Loss 0.0251, Acc 99.00%
+Epoch 40: Loss 0.0224, Acc 99.30%
+Epoch 41: Loss 0.0225, Acc 99.04%
+Epoch 42: Loss 0.0222, Acc 99.17%
+Epoch 43: Loss 0.0220, Acc 99.21%
+Epoch 44: Loss 0.0195, Acc 99.28%
+Epoch 45: Loss 0.0180, Acc 99.26%
+Epoch 46: Loss 0.0169, Acc 99.48%
+Epoch 47: Loss 0.0175, Acc 99.48%
+Epoch 48: Loss 0.0140, Acc 99.43%
+Epoch 49: Loss 0.0124, Acc 99.35%
+Epoch 50: Loss 0.0113, Acc 99.43%
+Epoch 51: Loss 0.0102, Acc 99.47%
+Epoch 52: Loss 0.0095, Acc 99.60%
+Epoch 53: Loss 0.0080, Acc 99.62%
+Epoch 54: Loss 0.0066, Acc 99.56%
+Epoch 55: Loss 0.0056, Acc 99.64%
+Epoch 56: Loss 0.0043, Acc 99.61%
+Epoch 57: Loss 0.0037, Acc 99.65%
+Epoch 58: Loss 0.0029, Acc 99.65%
+Epoch 59: Loss 0.0025, Acc 99.67%
+Epoch 60: Loss 0.0022, Acc 99.67%
+Epoch 61: Loss 0.0021, Acc 99.67%
+Epoch 62: Loss 0.0022, Acc 99.67%
+Epoch 63: Loss 0.0024, Acc 99.67%
+Epoch 64: Loss 0.0027, Acc 99.68%
+Epoch 65: Loss 0.0032, Acc 99.63%
+Epoch 66: Loss 0.0043, Acc 99.58%
+Epoch 67: Loss 0.0046, Acc 99.60%
+Epoch 68: Loss 0.0058, Acc 99.65%
+Epoch 69: Loss 0.0064, Acc 99.48%
+Epoch 70: Loss 0.0078, Acc 99.48%
+Epoch 71: Loss 0.0086, Acc 99.54%
+Epoch 72: Loss 0.0100, Acc 99.51%
+Epoch 73: Loss 0.0115, Acc 99.43%
+Epoch 74: Loss 0.0115, Acc 99.48%
+Epoch 75: Loss 0.0142, Acc 99.41%
+Epoch 76: Loss 0.0142, Acc 99.56%
+Epoch 77: Loss 0.0124, Acc 99.49%
+Epoch 78: Loss 0.0146, Acc 99.52%
+Epoch 79: Loss 0.0139, Acc 99.49%
+Epoch 80: Loss 0.0140, Acc 99.43%
+Epoch 81: Loss 0.0145, Acc 99.56%
+Epoch 82: Loss 0.0139, Acc 99.47%
+Epoch 83: Loss 0.0131, Acc 99.48%
+Epoch 84: Loss 0.0133, Acc 99.60%
+Epoch 85: Loss 0.0111, Acc 99.45%
+Epoch 86: Loss 0.0108, Acc 99.06%
+Epoch 87: Loss 0.0094, Acc 99.61%
+Epoch 88: Loss 0.0087, Acc 99.63%
+Epoch 89: Loss 0.0083, Acc 99.61%
+Epoch 90: Loss 0.0072, Acc 99.61%
+Epoch 91: Loss 0.0054, Acc 99.55%
+Epoch 92: Loss 0.0049, Acc 99.63%
+Epoch 93: Loss 0.0039, Acc 99.65%
+Epoch 94: Loss 0.0033, Acc 99.56%
+Epoch 95: Loss 0.0026, Acc 99.67%
+Epoch 96: Loss 0.0021, Acc 99.63%
+Epoch 97: Loss 0.0016, Acc 99.68%
+Epoch 98: Loss 0.0014, Acc 99.68%
+Epoch 99: Loss 0.0011, Acc 99.70%
+Epoch 100: Loss 0.0010, Acc 99.69%
+
+--- Equilibrium Classification Performance ---
+Training Classification -> Accuracy: 0.9997, F1 Score: 0.9997, ROC AUC: 1.0000
+Validation Classification -> Accuracy: 0.9969, F1 Score: 0.9964, ROC AUC: 0.9998
+
+Graphs saved to class_results.png
